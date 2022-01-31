@@ -4,7 +4,7 @@ import "./Header.css";
 function Header() {
   return (
     <div className="hero md:px-0">
-      <div className=" max-w-49rem mx-auto header">
+      <div className="mx-auto header">
         <h1>
           Welcome To
           <br /> My Personal Portfolio

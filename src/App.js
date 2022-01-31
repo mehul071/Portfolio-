@@ -6,10 +6,10 @@ import Projects from "./Components/Projects";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App mb-8">
       <Nav />
       <Header />
-      {/* <Projects /> */}
+      <Projects />
     </div>
   );
 }

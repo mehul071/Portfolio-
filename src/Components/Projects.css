@@ -1,0 +1,14 @@
+.projects{
+    max-width: 49rem;
+    flex-wrap: wrap;
+    flex-grow: initial;
+}
+.project_heading{
+    margin-bottom: 3.5rem;
+}
+.card_heading{
+    color: #0D2FD8;
+}
+.card{
+    box-shadow: 0 0 5px #eee;
+}

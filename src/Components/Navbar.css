@@ -16,7 +16,7 @@
     display: flex;
 }
 .nav_links a{
-    color:gainsboro !important;
+    /* color:gainsboro !important; */
 }
 .github__logo{
     font-size:2rem;
@@ -30,5 +30,5 @@
     font-size:2rem;
 }
 .nav_links a:hover{
-    color:blue !important;
+    color:white;
 }
