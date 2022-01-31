@@ -1,0 +1,34 @@
+.navbar{
+    display: flex;
+    padding:16px;
+}
+.navbar__logo{
+    font-size:3rem;
+    display: flex;
+}
+.nav_links{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    color:grey !important;
+}
+.navbar__logos{
+    display: flex;
+}
+.nav_links a{
+    color:gainsboro !important;
+}
+.github__logo{
+    font-size:2rem;
+    margin: 0 2rem;
+}
+.profile__logo{
+    display: flex;
+    margin-left:6rem;
+}
+.linkedin__logo{
+    font-size:2rem;
+}
+.nav_links a:hover{
+    color:blue !important;
+}

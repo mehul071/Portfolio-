@@ -1,0 +1,37 @@
+.hero{
+    margin: 5rem 0 0 0 !important;
+}
+.header{
+    max-width:49rem;
+}
+.hero h1{
+    letter-spacing: 2px;
+    line-height: 44px;
+}
+.header_desc{
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-family: 'PT Sans', sans-serif;
+    margin-top:1rem;
+    max-width:33rem;
+    color:#4A5060;
+}
+
+.btn-grad {background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   border-radius: 10px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
